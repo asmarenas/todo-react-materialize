@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/mariusjagminas/todo-list/static/css/main.b9de6850.chunk.css"
   },
   {
-    "revision": "9f455cafe6e2e5b7da384d6c4f680cab",
+    "revision": "ef3204002bc24476327020549d0eb4df",
     "url": "/mariusjagminas/todo-list/index.html"
   }
 ];
