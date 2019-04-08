@@ -1,32 +1,32 @@
 #btn {
-    position: relative;
-    bottom: -29px;
-    right: 15px;
+  position: relative;
+  bottom: -29px;
+  right: 15px;
 }
 /* label color */
 .input-field label {
-  color:red !important;
+  color: red !important;
 }
 /* label focus color */
 .input-field input:focus + label {
-    color: red !important;
+  color: red !important;
 }
 /* label underline focus color */
 .input-field input:focus {
   border-bottom: 1px solid red !important;
-  box-shadow: 0 1px 0 0 red !important
+  box-shadow: 0 1px 0 0 red !important;
 }
-/* underline color*/
-.input-field input[type=text] {
+/* underline color */
+.input-field input[type="text"] {
   border-bottom: 1px solid red !important;
   box-shadow: 0 1px 0 0 red !important;
 }
 
-  #todo {
-    font-weight: 500;
-  }
+#todo {
+  font-weight: 500;
+}
 
-  #redborder {
-    border: 0.9px solid red;
-    font-weight: 600;
-  }
+#redborder {
+  border: 0.9px solid red;
+  font-weight: 600;
+} 
